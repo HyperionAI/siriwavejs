@@ -1,0 +1,19 @@
+{
+  "name": "siriwavejs",
+  "version": "1.0.0",
+  "description": "![image](https://s3.amazonaws.com/f.cl.ly/items/2r2i3p2G262M271N0F2M/siri.gif)",
+  "main": "siriwave.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyperionAI/siriwavejs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HyperionAI/siriwavejs/issues"
+  },
+  "homepage": "https://github.com/HyperionAI/siriwavejs#readme"
+}
